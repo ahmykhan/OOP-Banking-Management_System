@@ -1,6 +1,6 @@
 # OOP Banking Management System
 
-A comprehensive, console-based Banking Management System implemented in C++ utilizing core Object-Oriented Programming (OOP) paradigms. This project was developed as part of the Object-Oriented Programming (CS) course at FAST-NUCES[cite: 1].
+A comprehensive, console-based Banking Management System implemented in C++ utilizing core Object-Oriented Programming (OOP) paradigms. This project was developed as part of the Object-Oriented Programming course at FAST-NUCES[cite: 1].
 
 ## 🏛️ Project Architecture & OOP Concepts
 This system completely avoids hardcoding by leveraging advanced OOP relationships[cite: 1]:
@@ -40,14 +40,13 @@ The system features flat-file data persistence to maintain systemic states acros
 ---
 
 ## 🛠️ Tech Stack
-* **Language:** C++ (Standard ISO/IEC 14882)
+* **Language:** C++[cite: 1]
 * **File I/O:** `fstream` standard library for relational text-database emulation[cite: 1]
-* **Development Environment:** MinGW GCC Compiler / VS Code
+* **Development Tools:** MinGW GCC Compiler / Dev-C++ / VS Code
 
 ---
 
-## 💻 Setup and Run
-
-1. Clone this repository to your local machine:
-```bash
-   git clone [https://github.com/your-username/oop-banking-management-system.git](https://github.com/your-username/oop-banking-management-system.git)
+## 💻 How to Run
+1. Open the project folder in your preferred C++ IDE (like Dev-C++, Visual Studio, or VS Code).
+2. Make sure the code file and all the required `.txt` files are in the same folder[cite: 1].
+3. Click the **Run** or **Compile and Run** button in your IDE to launch the application.
